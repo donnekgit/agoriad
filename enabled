@@ -1,0 +1,57 @@
+en-af,af-en,Afrikaans,English,utf-8
+#tr-az,az-tr,Azerbaijani,Turkish,utf-8
+eu-es,eu-es,Basque,Spanish,utf-8
+en-ca,ca-en,Catalan,English,utf-8
+fr-ca,ca-fr,Catalan,French,utf-8
+oc-ca,ca-oc,Catalan,Occitan,utf-8
+oc-ca,ca-oc_aran,Catalan,Occitan (Aranés),utf-8
+ca-ro,ca-ro,Catalan,Romanian,utf-8
+es-ca,ca-es,Catalan,Spanish,utf-8
+sv-da,da-sv,Danish,Swedish,utf-8
+en-af,en-af,English,Afrikaans,utf-8
+en-ca,en-ca,English,Catalan,utf-8
+en-pl,en-pl,English,Polish,utf-8
+en-es,en-es,English,Spanish,utf-8
+tg-fa,fa-tg,Persian,Tajik,utf-8
+cy-en,en-cy,English,Welsh,utf-8
+fr-ca,fr-ca,French,Catalan,utf-8
+fr-es,fr-es,French,Spanish,utf-8
+es-gl,gl-es,Galician,Spanish,utf-8
+es-it,it-es,Italian,Spanish,utf-8
+sh-mk,mk-sh_BS,Macedonian,Serbo-Croatian (Sarajevo),utf-8
+sh-mk,mk-sh_HR,Macedonian,Serbo-Croatian (Zagreb),utf-8
+sh-mk,mk-sh_SR,Macedonian,Serbo-Croatian (Belgrade),utf-8
+en-pl,pl-en,Polish,English,utf-8
+es-pt,pt-es,Portuguese,Spanish,utf-8
+oc-ca,oc-ca,Occitan,Catalan,utf-8
+oc-ca,oc_aran-ca,Occitan (Aranés),Catalan,utf-8
+oc-es,oc-es,Occitan,Spanish,utf-8
+oc-es,oc_aran-es,Occitan (Aranés),Spanish,utf-8
+ca-ro,ro-ca,Romanian,Catalan,utf-8
+es-ro,ro-es,Romanian,Spanish,utf-8
+es-pt,es-pt_BR,Spanish,Brazilian Portuguese,utf-8
+sh-mk,sh-mk,Serbo-Croatian,Macedonian,utf-8
+es-ca,es-ca,Spanish,Catalan,utf-8
+en-es,es-en,Spanish,English,utf-8
+fr-es,es-fr,Spanish,French,utf-8
+es-gl,es-gl,Spanish,Galician,utf-8
+es-it,es-it,Spanish,Italian,utf-8
+oc-es,es-oc,Spanish,Occitan,utf-8
+oc-es,es-oc_aran,Spanish,Occitan (Aranés),utf-8
+es-pt,es-pt,Spanish,Portuguese,utf-8
+sv-da,sv-da,Swedish,Danish,utf-8
+tg-fa,tg-fa,Tajik,Persian,utf-8
+#tr-az,tr-az,Turkish,Azerbaijani,utf-8
+cy-en,cy-en,Welsh,English,utf-8
+pt-ca,pt-ca,Portuguese,Catalan,utf-8
+pt-ca,ca-pt,Catalan,Portuguese,utf-8
+pt-gl,pt-gl,Portuguese,Galician,utf-8
+pt-gl,gl-pt,Galician,Portuguese,utf-8
+nn-nb,nn-nb,Norwegian Nynorsk,Norwegian Bokmål,utf-8
+nn-nb,nb-nn,Norwegian Bokmål,Norwegian Nynorsk,utf-8
+ga-gd,ga-gd,Irish,Scottish Gaelic,utf-8
+ga-gd,gd-ga,Scottish Gaelic,Irish,utf-8
+eo-es,es-eo,Spanish,Esperanto,utf-8
+eo-ca,ca-eo,Catalan,Esperanto,utf-8
+eo-en,en-eo,English,Esperanto,utf-8
+eo-en,eo-en,Esperanto,English,utf-8
